@@ -55,7 +55,8 @@ We HIGHLY recommend starting out with no database files at all to make this a fr
 A full list can be found here: [Link](https://github.com/SickChill/SickChill/wiki/SickChill-Search-Providers)
 
 #### Special Thanks to:
-![image](https://rarbg.com/favicon.ico)[RARBG](https://rarbg.to)  
+![image](https://rarbg.com/favicon.ico)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falphax777%2FSickChill.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falphax777%2FSickChill?ref=badge_shield)
+[RARBG](https://rarbg.to)  
 ![image](https://torrentproject2.se/favicon.ico)[TorrentProject](https://torrentproject.se/about)  
 ![image](https://thepiratebay.org/favicon.ico)[ThePirateBay](https://thepiratebay.se/)  
 ![image](https://nzb.cat/favicon.ico)[NZB.cat](https://nzb.cat/)  
@@ -64,3 +65,6 @@ A full list can be found here: [Link](https://github.com/SickChill/SickChill/wik
 
 #### News and Changelog
 [news.md and CHANGES.md have moved to a separate repo, click here](https://github.com/SickChill/SickChill.github.io)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falphax777%2FSickChill.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falphax777%2FSickChill?ref=badge_large)
